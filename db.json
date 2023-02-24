@@ -1,0 +1,168 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "email": "dsjhhjds",
+      "password": "jhsjhjhsa",
+      "username": "dhjjds",
+      "id": 2
+    },
+    {
+      "email": "vinaybhi46@gmail.com",
+      "password": "bababbab",
+      "username": "cnnbnbc",
+      "id": 3
+    },
+    {
+      "email": "vinaybhi46@gmail.com",
+      "password": "dffdfd",
+      "username": "viaia",
+      "id": 4
+    },
+    {
+      "email": "vinaybhi46@gmail.com",
+      "password": "aassad",
+      "username": "vikks",
+      "id": 5
+    },
+    {
+      "email": "vinaybhi46@gmail.com",
+      "password": "aassad",
+      "username": "vikks",
+      "id": 6
+    },
+    {
+      "email": "vinaybhi46@gmail.com",
+      "password": "aassad",
+      "username": "vikks",
+      "id": 7
+    },
+    {
+      "email": "vinaybhi46@gmail.com",
+      "password": "ddsdddsds",
+      "username": "vkvjj",
+      "id": 8
+    },
+    {
+      "email": "vinaybhi46@gmail.com",
+      "password": "nmmxmcx",
+      "username": "hdhdjj",
+      "id": 9
+    },
+    {
+      "email": "vinaybhi46@gmail.com",
+      "password": "ddfdff",
+      "username": "dfhhjfd",
+      "id": 10
+    },
+    {
+      "email": "vinaybhi46@gmail.com",
+      "password": "nnmnmnm",
+      "username": "vvd",
+      "id": 11
+    },
+    {
+      "email": "vinay@gmail.com",
+      "password": "vinay",
+      "username": "vinay",
+      "id": 12
+    },
+    {
+      "email": "vinay@gmail.com",
+      "password": "vinay",
+      "id": 13
+    },
+    {
+      "email": "vinay@gmail.com",
+      "password": "vinay",
+      "id": 14
+    },
+    {
+      "email": "vinay@gmail.com",
+      "password": "vinay",
+      "id": 15
+    },
+    {
+      "email": "vinay@gmail.com",
+      "password": "vinay",
+      "id": 16
+    },
+    {
+      "email": "vinay@gmail.com",
+      "password": "vinay",
+      "id": 17
+    },
+    {
+      "email": "vinay@gmail.com",
+      "password": "vina",
+      "id": 18
+    },
+    {
+      "email": "vinay@gmail.com",
+      "password": "vinay",
+      "id": 19
+    },
+    {
+      "email": "vinay@gmail.com",
+      "password": "vinay",
+      "id": 20
+    },
+    {
+      "email": "vinay@gmail.com",
+      "password": "vinay",
+      "id": 21
+    },
+    {
+      "email": "vinay@gmail.com",
+      "password": "vinay",
+      "id": 22
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 23
+    },
+    {
+      "email": "vinaybhi46@gmail.com",
+      "password": "vinay",
+      "id": 24
+    }
+  ],
+  "task": [
+    {
+      "taskname": "work",
+      "description": "vinay",
+      "time": "2",
+      "Category": "office",
+      "id": 1
+    },
+    {
+      "taskname": "vinay",
+      "description": "dtyhj",
+      "time": "8",
+      "Category": "teem",
+      "id": 2
+    },
+    {
+      "taskname": "work",
+      "description": "dtyhj",
+      "time": "8",
+      "Category": "study",
+      "id": 3
+    },
+    {
+      "taskname": "",
+      "description": "",
+      "time": "",
+      "Category": "",
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
